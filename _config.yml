@@ -11,7 +11,7 @@ title                    : "Paul Bousquet"
 title_separator          : "-"
 name                     : &name "Paul Bousquet"
 description              : &description "Econ Phd Student"
-url                      : pbousquet.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://paulbousquet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "paulbousquet.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -274,4 +274,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
