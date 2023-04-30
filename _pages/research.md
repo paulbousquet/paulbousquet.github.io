@@ -24,7 +24,8 @@ Current Projects
   * with Junsoo Lee and Saban Nazlioglu 
   
 ### Works in Progress 
-* Assessing Optimal Currency Area Criteria: How Integrated is Europe? 
+* Interpretability without Naiveté: Policy Analysis under Infeasible Identification
+* Star-Crossed: A Robustness Test for Specious, Significant Regressions 
 
 ###
 Past Projects 
