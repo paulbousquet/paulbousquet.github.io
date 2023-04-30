@@ -26,7 +26,7 @@ Current Projects
 ### Works in Progress 
 * Assessing Optimal Currency Area Criteria: How Integrated is Europe? 
 
-======
+
 Past Projects 
 ======
 * [International Co-Movements and Determinants of Public Debt](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3640087), Bank of Korea WP (uncredited co-author)
