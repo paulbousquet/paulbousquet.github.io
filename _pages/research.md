@@ -28,9 +28,8 @@ Current Projects
 
 Past Projects 
 ======
-* Referee: _Economic Modeling_ 
-* [Macro Notes](https://paulbousquet.github.io/WebsitePDFs/Macro.pdf)
+* [International Co-Movements and Determinants of Public Debt](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3640087), Bank of Korea WP (uncredited co-author)
 
-##Presentations 
+## Presentations 
 * 2022 SNDE Symposium - Optimal Currency Area paper (Vladimir Arčabić presented on our behalf) 
 * 2021 IAAE Annual Conference - Commodity Price paper (Saban Nazlioglu presented on our behalf)
