@@ -14,8 +14,8 @@ Current Projects
 ### Academic Service 
 * Referee: _Economic Modeling_ 
 * [Macro Notes](https://paulbousquet.github.io/WebsitePDFs/Macro.pdf)
-* [Econometrics Notes](https://paulbousquet.github.io/WebsitePDFs/Metrics.pdf)
-* [Real Analysis Notes](https://paulbousquet.github.io/WebsitePDFs/Analysis_notes.pdf)
+* [Econometrics Notes](https://paulbousquet.github.io/WebsitePDFs/Metrics.pdf) (work in progress)
+* [Real Analysis Notes](https://paulbousquet.github.io/WebsitePDFs/Analysis_notes.pdf) (largely finished)
 
 ### Working Papers 
 * Assessing Optimal Currency Area Criteria: How Integrated is Europe? 
