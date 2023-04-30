@@ -15,4 +15,4 @@ I am an Economics PhD student at the University of Virginia [researching](https:
 
 My current focus is empirical analysis motivated by monetary/fiscal trends and finding ways to apply microeconometric methods in Macro settings.
 
-[Curriculum Vittae](https://paulbousquet.github.io/WebsitePDFs/BousquetCV.pdf) 
+[Curriculum Vitae](https://paulbousquet.github.io/WebsitePDFs/BousquetCV.pdf) 
