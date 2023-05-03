@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-gtag"
+  provider               :  "custom"
   google:
-    tracking_id          : "G-623EK01VRN"
+    tracking_id          : 
 
 
 # Site Author
