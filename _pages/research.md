@@ -25,7 +25,7 @@ Current Projects
   
 ### Works in Progress 
 * Interpretability without Naiveté: Policy Analysis under Infeasible Identification
-* Star-Crossed: A Robustness Test for Specious, Significant Regressions 
+* Star-Crossed: A Test for Specious, Significant Regressions 
 
 
 Past Projects 
