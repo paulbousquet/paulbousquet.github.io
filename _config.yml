@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "custom"
   google:
-    tracking_id          : 
+    tracking_id          :
 
 
 # Site Author
