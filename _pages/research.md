@@ -12,7 +12,6 @@ Current Projects
 ======
 
 ### Academic Service 
-* Referee: _Economic Modeling_ 
 * [Macro Notes](https://paulbousquet.github.io/WebsitePDFs/Macro.pdf)
 * [Econometrics Notes](https://paulbousquet.github.io/WebsitePDFs/Metrics.pdf) (work in progress)
 * [Real Analysis Notes](https://paulbousquet.github.io/WebsitePDFs/Analysis_notes.pdf) (largely finished)
@@ -24,7 +23,7 @@ Current Projects
   * with Junsoo Lee and Saban Nazlioglu 
   
 ### Works in Progress 
-* Interpretability without Naiveté: Policy Analysis under Infeasible Identification
+* Interpretability Without Naiveté: Policy Analysis under Infeasible Identification
 * Star-Crossed: A Test for Specious, Significant Regressions 
 
 
