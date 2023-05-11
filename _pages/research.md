@@ -14,7 +14,7 @@ Current Projects
 ### Academic Service 
 * [Macro Notes](https://paulbousquet.github.io/WebsitePDFs/Macro.pdf)
 * [Econometrics Notes](https://paulbousquet.github.io/WebsitePDFs/Metrics.pdf) (work in progress)
-* [Real Analysis Notes](../assets/Analysisnotes.pdf) (largely finished)
+* [Real Analysis Notes](../assets/AnalysisNotes.pdf) (largely finished)
 
 ### Working Papers 
 * Assessing Optimal Currency Area Criteria: How Integrated is Europe? 
