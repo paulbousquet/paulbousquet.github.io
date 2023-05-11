@@ -11,10 +11,10 @@ redirect_from:
 Current Projects 
 ======
 
-### Academic Service 
-* [Macro Notes](../assets/Macro.pdf)
-* [Econometrics Notes](../assets/Metrics.pdf) (work in progress)
-* [Real Analysis Notes](../assets/AnalysisNotes.pdf) (largely finished)
+### Notes
+* [Macro](../assets/Macro.pdf)
+* [Econometrics](../assets/Metrics.pdf) (work in progress)
+* [Real Analysis](../assets/AnalysisNotes.pdf) (largely finished)
 
 ### Working Papers 
 * Assessing Optimal Currency Area Criteria: How Integrated is Europe? 
