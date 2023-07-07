@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
 ---
 
-Email: ptb8zf (at) virginia (dot) edu 
+Email: ptb8zf@virginia.edu 
 
 ### [LinkedIn](https://www.linkedin.com/in/pbousquet/)
 
