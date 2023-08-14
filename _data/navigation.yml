@@ -6,9 +6,6 @@ main:
   - title: "Code"
     url: /code/    
     
-  - title: "Contact"
-    url: /contact/
-    
   - title: "CV"
     url: /assets/BousquetCV.pdf
 
