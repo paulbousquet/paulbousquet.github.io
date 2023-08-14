@@ -12,13 +12,14 @@ Current Projects
 ======
 
 ### Notes
-* [Macro](../assets/Macro.pdf)
+* [Macro](../assets/Macro.pdf) (will be updating throughout fall)
+  *  [Log-linearization](../assets/mslides/ll.pdf)  
 * [Econometrics](../assets/Metrics.pdf) (work in progress)
 * [Real Analysis](../assets/AnalysisNotes.pdf) (largely finished)
 
 ### Working Papers 
 * Assessing Optimal Currency Area Criteria: How Integrated is Europe? 
-  * with Junnsoo Lee, Vladimir Arčabić, and Yan Lu  
+  * with Junnsoo Lee, Vladimir Arčabić, and Yan Lu 
   
 ### Works in Progress 
 * Star-Crossed: A Test for Specious, Significant Regressions 
