@@ -18,12 +18,9 @@ Current Projects
 
 ### Working Papers 
 * Assessing Optimal Currency Area Criteria: How Integrated is Europe? 
-  * with Junnsoo Lee, Vladimir Arčabić, and Yan Lu 
-* Nonstationarity of Commodity Prices under Cross-Sectional Dependence
-  * with Junsoo Lee and Saban Nazlioglu 
+  * with Junnsoo Lee, Vladimir Arčabić, and Yan Lu  
   
 ### Works in Progress 
-* Interpretability Without Naiveté: Policy Analysis under Infeasible Identification
 * Star-Crossed: A Test for Specious, Significant Regressions 
 
 
@@ -33,4 +30,3 @@ Past Projects
 
 ### Presentations 
 * 2022 SNDE Symposium - Optimal Currency Area paper (Vladimir Arčabić presented on our behalf) 
-* 2021 IAAE Annual Conference - Commodity Price paper (Saban Nazlioglu presented on our behalf)
