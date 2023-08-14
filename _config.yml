@@ -86,7 +86,7 @@ author:
   location         : "University of Virginia"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : # https://scholar.google.com/citations?hl=en&user=y4tJfFkAAAAJ
   email            : "ptb8zf@virginia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : "pbousquet"
+  orcid            : # 0000-0002-6401-9697
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
