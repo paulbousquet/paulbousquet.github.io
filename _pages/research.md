@@ -13,7 +13,7 @@ Current Projects
 
 ### Notes
 * [Macro](../assets/Macro.pdf) (updating throughout fall, slides below)
-  *  [Log-linearization](../assets/mslides/ll.pdf)  
+  *  [Log-linearization](../assets/mslides/log-linearization.pdf)  
 * [Econometrics](../assets/Metrics.pdf) (work in progress)
 * [Real Analysis](../assets/AnalysisNotes.pdf) (largely finished)
 
