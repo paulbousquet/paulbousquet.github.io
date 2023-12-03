@@ -15,4 +15,4 @@ I am an Economics PhD student at the University of Virginia researching Macroeco
 
 My current focus is using heterogeneous agent models to answer questions related to inflation, money, and individual decision making. I also like thinking about ways to credibly apply microeconometric methods in Macro settings.
 
-[Curriculum Vitae](https://paulbousquet.github.io/WebsitePDFs/BousquetCV.pdf) 
+[Curriculum Vitae](https://paulbousquet.github.io/assets/BousquetCV.pdf) 
