@@ -31,4 +31,4 @@ Past Projects
 * [International Co-Movements and Determinants of Public Debt](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3640087), Bank of Korea WP (uncredited co-author)
 
 ### Presentations 
-* 2022 SNDE Symposium - Optimal Currency Area paper (Vladimir Arčabić presented on our behalf) 
+* 2022 SNDE Symposium - Optimal Currency Area paper (Vladimir Arčabić presented on our behalf[)](../assets/Bousquet_RDA.pdf)
