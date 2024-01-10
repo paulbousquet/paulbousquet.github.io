@@ -12,7 +12,7 @@ Current Projects
 ======
 
 ### Notes
-* [Macro](../assets/Macro.pdf) (updating throughout fall, slides below)
+* [Macro](../assets/Macro.pdf) (update in progress, TA slides below)
   *  [Log-linearization](../assets/mslides/log-linearization.pdf)
   *  [Dynamic Programming](../assets/mslides/dynamic-programming.pdf)
 * [Econometrics](../assets/Metrics.pdf) (work in progress)
