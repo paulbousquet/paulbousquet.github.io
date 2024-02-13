@@ -28,7 +28,7 @@ Current Projects
 
 Past Projects 
 ======
-* [International Co-Movements and Determinants of Public Debt](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3640087), Bank of Korea WP (uncredited co-author)
+* [International Comovements of Public Debt](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecin.13204), _Economic Inquiry_ (uncredited co-author)
 
 ### Presentations 
 * 2022 SNDE Symposium - Optimal Currency Area paper (Vladimir Arčabić presented on our behalf)
