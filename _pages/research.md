@@ -23,7 +23,7 @@ Current Projects
   * with Junnsoo Lee, Vladimir Arčabić, and Yan Lu 
   
 ### Works in Progress 
-* Star-Crossed: A Test for Specious, Significant Regressions 
+* Star-Crossed: A Test for Specious, Significant Regressions
 
 
 Past Projects 
