@@ -5,7 +5,7 @@ permalink: /code/
 author_profile: true
 redirect_from:
 ---
-
+### [Macro models -- extensions and replications (expanding list)](https://github.com/paulbousquet/Macro-Models)
 ### [R code for tuning blackbox models and streaming data](https://github.com/paulbousquet/MachineLearning)
 ### [Java Code](https://github.com/paulbousquet/Java)
 ### [Stata replications - newer methods](https://github.com/paulbousquet/StataReplication)
