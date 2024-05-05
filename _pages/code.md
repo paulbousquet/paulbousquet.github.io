@@ -13,5 +13,5 @@ redirect_from:
 * Work in Progress -- taken from old NSF proposal 
 
 # Collection of Public Good Collections
-*[ Gregor Boehl ](https://gregorboehl.com/) (see "useful stuff")
-*[Sangmin Oh ](https://sangmino.github.io/resources/) (also goods he made [himself](https://sangmino.github.io/public_goods/))
+* [ Gregor Boehl ](https://gregorboehl.com/) (see "useful stuff")
+* [Sangmin Oh ](https://sangmino.github.io/resources/) (also goods he made [himself](https://sangmino.github.io/public_goods/))
