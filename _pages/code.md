@@ -12,3 +12,6 @@ redirect_from:
 ### [Preliminary code for "Star-crossed regressions"](https://github.com/paulbousquet/nsf)
 * Work in Progress -- taken from old NSF proposal 
 
+# Collection of Public Good Collections
+*[ Gregor Boehl ]([url](https://gregorboehl.com/)) (see "useful stuff")
+* [Sangmin Oh ]([url](https://sangmino.github.io/resources/)) (also goods he made [himself]([url](https://sangmino.github.io/public_goods/))
