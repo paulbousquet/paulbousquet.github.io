@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
 ---
 ### [Macro models -- extensions and replications (expanding list)](https://github.com/paulbousquet/Macro-Models)
+### [Stata implementation of Smooth Local Projections](https://github.com/paulbousquet/SmoothLP)
 ### [Some niche data I've assembled](https://github.com/paulbousquet/data)
 ### [R code for tuning blackbox models and streaming data](https://github.com/paulbousquet/MachineLearning)
 ### [Stata replications - newer methods](https://github.com/paulbousquet/StataReplication)
