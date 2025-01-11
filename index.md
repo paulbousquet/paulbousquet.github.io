@@ -8,9 +8,7 @@ I'm currently focussed on questions related to monetary policy, prices, and deci
 
 
 ## Research 
-
 ### Working Papers
-
 {% include_relative _includes/publications.md %}
 
 ## Public Goods 
