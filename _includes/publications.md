@@ -19,31 +19,27 @@
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.abstract %}
-      <button class="btn btn-sm z-depth-0" style="font-size:12px;" onclick="toggleAbstract(this)">[+] Abstract</button>
-      <div class="abstract" style="display:none; margin-top:5px; font-size:12px;">
-        <p>{{ link.abstract }}</p>
-      </div>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-    </div>
+   {% if link.abstract %}
+   <button class="btn btn-sm z-depth-0" style="font-size:12px; margin-bottom: 0; padding: 2px 5px;" onclick="toggleAbstract(this)">[+] Abstract</button>
+   <div class="abstract" style="display:none; margin-top: 2px; font-size:12px; padding-left: 10px;">
+      <p style="margin: 0;">{{ link.abstract }}</p>
+   </div>
+   {% endif %}
+
+   {% if link.pdf %} 
+   <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+   {% endif %}
+   {% if link.code %} 
+   <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+   {% endif %}
+   {% if link.page %} 
+   <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+   {% endif %}
+   {% if link.bibtex %} 
+   <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+   {% endif %}
+</div>
+
   </div>
 </div>
 </li>
