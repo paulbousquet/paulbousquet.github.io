@@ -7,7 +7,12 @@ I am an Economics PhD student at the University of Virginia researching Macroeco
 I'm currently focussed on questions related to monetary policy, prices, and decisions over the life-cycle. I also like thinking about ways to credibly apply microeconometric methods in Macro settings.
 
 
-{% include_relative _includes/publications.md %}
+## Research 
+
+### Working Papers
+
+* Uncovering Nonlinearities with Regression Anatomy
+* Sticky Interest Rates 
 
 ## Public Goods 
 
