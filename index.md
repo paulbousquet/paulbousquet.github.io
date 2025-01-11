@@ -26,7 +26,7 @@ I'm currently focussed on questions related to monetary policy, prices, and deci
 - [Macro models -- extensions and replications (expanding list)](https://github.com/paulbousquet/Macro-Models)
 - [Stata implementation of Smooth Local Projections](https://github.com/paulbousquet/SmoothLP)
 - [Monetary Policy Shock Data and Replication](https://github.com/paulbousquet/data)
-  - See also [Miguel Acosta's]() website 
+  - See also [Miguel Acosta's](https://www.acostamiguel.com/research.html) website 
 
 ### Collection of Public Good Collections
 - [ Gregor Boehl ](https://gregorboehl.com/) (see "useful stuff")
