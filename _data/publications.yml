@@ -1,4 +1,7 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    abstract: "this is a test"
+  - title: Uncovering Nonlinearities with Regression Anatomy 
+    abstract: "**this is a test**"
+
+  - title: Sticky Interest Rates
+    abstract: "Central banks choose to adjust their target on overnight lending rates at a sluggish frequency that logistical costs alone cannot account for. Similar to earlier work on firm price-setting, this paper takes the infrequent adjustment at face value, abstracting from the reasons central bank make this choice, and instead asking what would be the consequences of this practice in a typical framework. I augment an otherwise standard New Keynesian model with interest rate analogues to Calvo and Rotemberg price stickiness and find marked differences in monetary policy transmission relative to a standard Taylor Rule benchmark. The effects mirror documented volatility associated with interest rate pegs."
