@@ -234,6 +234,10 @@ h3, h4, h5, h6 {
   margin:0 0 10px;
 }
 
+h3 + ul, h3 + ol {
+  margin-top: 0;
+}
+
 h1 {
   font-weight: 500;
   color:#043361;
