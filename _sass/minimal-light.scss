@@ -214,14 +214,16 @@ papertitle {
 }
 
 .image.avatar img {
-  /* Apply circular shape */
-  border-radius: 50%;
+  border-radius: 50%; /* Keep circular shape */
+  width: 45%; /* Ensure responsiveness */
+  max-width: 150px; /* Optional: cap the size to prevent it from growing too large */
+  height: auto; /* Maintain aspect ratio */
   box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
 }
 
 #header .image.avatar {
-  margin: 0 0 1em 0;
-  width: auto; /* Adjust width to fit your needs */
+  margin: 0 0 1em 0; /* Maintain spacing */
+  text-align: center; /* Ensure proper alignment */
 }
 
 h3, h4, h5, h6 {
