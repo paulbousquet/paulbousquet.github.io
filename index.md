@@ -12,12 +12,12 @@ I'm currently focussed on questions related to monetary policy, prices, and deci
 ## Public Goods 
 
 ### Notes  
-- [Macro](../assets/Macro.pdf) 
-  -  [Log-linearization](../assets/mslides/log-linearization.pdf)
-  -  [Dynamic Programming](../assets/mslides/dynamic-programming.pdf)
-- [Econometrics](../assets/Metrics.pdf) (work in progress)
-- [Real Analysis](../assets/AnalysisNotes.pdf)
-- [Some Replications from Matt Masten's 2nd Year PhD Course](https://github.com/paulbousquet/StataReplication)
+* [Macro](../assets/Macro.pdf) 
+  *  [Log-linearization](../assets/mslides/log-linearization.pdf)
+  *  [Dynamic Programming](../assets/mslides/dynamic-programming.pdf)
+* [Econometrics](../assets/Metrics.pdf) (work in progress)
+* [Real Analysis](../assets/AnalysisNotes.pdf)
+* [Some Replications from Matt Masten's 2nd Year PhD Course](https://github.com/paulbousquet/StataReplication)
 
 ### Code 
 - [Macro models -- extensions and replications (expanding list)](https://github.com/paulbousquet/Macro-Models)
