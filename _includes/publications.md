@@ -33,6 +33,12 @@
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
+      {% if link.abstract %}
+      <button class="btn btn-sm z-depth-0" style="font-size:12px;" onclick="toggleAbstract(this)">[+] Abstract</button>
+      <div class="abstract" style="display:none; margin-top:5px; font-size:12px;">
+        <p>{{ link.abstract }}</p>
+      </div>
+      {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
       {% endif %}
@@ -49,3 +55,16 @@
 
 </ol>
 </div>
+
+<script>
+function toggleAbstract(button) {
+    const abstract = button.nextElementSibling;
+    if (abstract.style.display === 'none' || abstract.style.display === '') {
+        abstract.style.display = 'block';
+        button.textContent = '[-] Abstract';
+    } else {
+        abstract.style.display = 'none';
+        button.textContent = '[+] Abstract';
+    }
+}
+</script>
