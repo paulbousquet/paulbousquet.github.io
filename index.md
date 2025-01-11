@@ -11,7 +11,7 @@ I'm currently focussed on questions related to monetary policy, prices, and deci
 
 ## Public Goods 
 
-### Notes  
+### Notes&nbsp;  
 * [Macro](../assets/Macro.pdf) 
   *  [Log-linearization](../assets/mslides/log-linearization.pdf)
   *  [Dynamic Programming](../assets/mslides/dynamic-programming.pdf)
