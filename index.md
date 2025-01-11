@@ -9,8 +9,9 @@ I'm currently focussed on questions related to monetary policy, prices, and deci
 
 ## Research 
 ### Working Papers
-{% include_relative _includes/publications.md %}
-
+* Uncovering Nonlinearities with Regression Anatomy
+* Sticky Interest Rates
+  
 ## Public Goods 
 
 ### Notes&nbsp;  
