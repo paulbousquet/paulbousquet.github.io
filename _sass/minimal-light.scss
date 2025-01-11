@@ -236,6 +236,14 @@ h3 + ul, h3 + ol {
   margin-top: 0;
 }
 
+ul, li {
+  margin-bottom: 1px; /* Adjust this value */
+}
+
+li + li {
+  margin-top: 1px; /* Or adjust this */
+}
+
 
 h1 {
   font-weight: 500;
