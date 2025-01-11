@@ -1,14 +1,22 @@
 main:
 
-  - id: 1
-    title: Uncovering Nonlinearities with Regression Anatomy 
-    # authors: 
-    #draft: 
-    abstract: "Kolesár and Plagborg-Møller (2024) show **(i)** even under an arbitrarily complex data generating process, linear regression frameworks can estimate a weighted average of marginal effects *(ii)* previous, more involved efforts to directly estimate non-linear effects produce flawed inference. The price of a vanilla regression's lack of sensitivity is a black box: a single point estimate cannot reveal where and to what extent nonlinearities exist. I show how to exploit the mechanics of least-squares regression and develop specifications to jointly test if marginal effects have sign and size dependence. Using monetary policy shocks as an application, I find persistent nonlinearities in US data that cannot be replicated by a New Keynesian model with asymmetric rigidities in price and wage setting."
-    
-  - id: 2
-    title: Sticky Interest Rates
-    #authors: 
-    #draft: 
-    abstract: "Central banks choose to adjust their target on overnight lending rates at a sluggish frequency that logistical costs alone cannot account for. Similar to earlier work on firm price-setting, this paper takes the infrequent adjustment at face value, abstracting from the reasons central bank make this choice, and instead asking what would be the consequences of this practice in a typical framework. I augment an otherwise standard New Keynesian model with interest rate analogues to Calvo and Rotemberg price stickiness and find marked differences in monetary policy transmission relative to a standard Taylor Rule benchmark. The effects mirror documented volatility associated with interest rate pegs."
-    # others: Presented at FDIC Consumer Research Symposium (2024), Urban Economics Association European Meeting (2024)
+  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
+
+  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Oral Presentation
+    image: ./assets/img/teaser_example.png
