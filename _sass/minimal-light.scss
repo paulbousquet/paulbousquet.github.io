@@ -213,17 +213,23 @@ papertitle {
   display: none;
 }
 
+.image.avatar {
+  border-radius: 100%;
+}
+
+.image.avatar:before {
+  display: none;
+}
+
 .image.avatar img {
-  border-radius: 50%; /* Keep circular shape */
-  width: 45%; /* Ensure responsiveness */
-  max-width: 150px; /* Optional: cap the size to prevent it from growing too large */
-  height: auto; /* Maintain aspect ratio */
+  /* Apply circular shape */
+  border-radius: 50%;
   box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
 }
 
 #header .image.avatar {
-  margin: 0 0 1em 0; /* Maintain spacing */
-  text-align: center; /* Ensure proper alignment */
+  margin: 0 0 1em 0;
+  width: auto; /* Adjust width to fit your needs */
 }
 
 h3, h4, h5, h6 {
