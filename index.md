@@ -30,7 +30,7 @@ I'm currently focussed on questions related to monetary policy, prices, and deci
 - [Monetary Policy Shock Data and Replication](https://github.com/paulbousquet/data)
   - See also [Miguel Acosta's]() website 
 
-### Collection of Public Good Collections
+### Some Public Good Collections
 - [ Gregor Boehl ](https://gregorboehl.com/) (see "useful stuff")
 - [Sangmin Oh ](https://sangmino.github.io/resources/) (also goods he made [himself](https://sangmino.github.io/public_goods/))
 
