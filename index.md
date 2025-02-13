@@ -12,6 +12,7 @@ I'm currently focussed on questions related to monetary policy, prices, and deci
 ### Working Papers
 
 * Uncovering Nonlinearities with Regression Anatomy
+ * [Draft](https://raw.githack.com/paulbousquet/UncoveringNonlin/main/Uncovering_Draft.pdf) 
 * Sticky Interest Rates
 
 ## Public Goods 
