@@ -35,5 +35,5 @@ I'm currently focussed on questions related to monetary policy, prices, and deci
 - [ Gregor Boehl ](https://gregorboehl.com/) (see "useful stuff")
 - [Sangmin Oh ](https://sangmino.github.io/resources/) (also goods he made [himself](https://sangmino.github.io/public_goods/))
 
-
-
+## Miscellany
+- [Some thoughts about AI/"the New World"](../assets/new_world.html)
