@@ -36,6 +36,6 @@ I'm currently focussed on questions related to monetary policy, prices, and AI. 
 - [Sangmin Oh ](https://sangmino.github.io/resources/) (also goods he made [himself](https://sangmino.github.io/public_goods/))
 
 ## Miscellany
-- [test](../README.md)
+- [test](../assets/papers.md)
 - [Papers I think about often](../assets/papers.html)
 - [Some thoughts about AI/"the New World"](../assets/new_world.html)
