@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-I am an Economics PhD student at the University of Virginia researching Macroeconomics.
+I am an Economics PhD candidate at the University of Virginia researching Macroeconomics.
 
 I'm currently focussed on questions related to monetary policy, prices, and AI. I also am thinking about ways to credibly apply microeconometric methods as well as deep learning in Macro settings. 
 
